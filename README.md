@@ -1,3 +1,6 @@
+<h1 align="center">👋 Hi there, I'm Rakshit Poonia</h1>
+<h3 align="center">A passionate programmer building sleek web apps and coding every day</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on skill development <br>👯 I’m looking to collaborate on innovative and interesting projects<br>🌱 I’m currently learning web development and generative AI<br>💬 Feel free to ask me about my projects and how they can be improved<br>⚡ Fun fact : Once converted a beat‑making algorithm using JavaScript. 🤖
 
