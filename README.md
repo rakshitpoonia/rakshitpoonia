@@ -26,11 +26,10 @@ I am an engineering student at BIT Mesra, building scalable full-stack products 
 
 | Area | Focus |
 |---|---|
-| **AI Agents** | Production-grade multi-agent workflows with LangGraph, CrewAI and Google ADK — built with guardrails, retries and observability |
-| **AI Integration** | MCP servers, Agents SDK, Hugging Face deployment and Gradio apps, hardened with scoped tool access and rate-limited LLM calls |
-| **Full-Stack** | Next.js + TypeScript apps on PostgreSQL and MongoDB, designed for scale from the schema up — indexed queries, validated and boundaries |
-| **API Engineering** | REST APIs secured end-to-end: OAuth/JWT auth enforced at middleware, rate limiting and bot protection before traffic ever reaches the database |
-
+| **AI Agents** | Production-grade multi-agent workflows with LangGraph, CrewAI and Google ADK — guardrails, retries, observability |
+| **AI Integration** | MCP servers, Agents SDK, Hugging Face and Gradio apps, hardened with scoped tools and rate-limited calls |
+| **Full-Stack** | Next.js + TypeScript on PostgreSQL and MongoDB, scaled from the schema up — indexed queries, validated boundaries |
+| **Scalability** | REST APIs secured end-to-end: OAuth/JWT at middleware, rate limiting and bot protection before the database |
 ---
 
 ## 🧩 Featured Projects
