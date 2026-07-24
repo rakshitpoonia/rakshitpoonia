@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-B.Tech Electronics & Communication student at **BIT Ranchi**, building full-stack products and AI agent systems that actually ship.
+I am an engineering student at BIT Mesra, building scalable full-stack products and AI agent systems that actually ship.
 
 🤖 I build **AI agents** with LangGraph, CrewAI, Google ADK and the OpenAI Agents SDK <br>
 ⚙️ I ship **end-to-end web apps** with Next.js, React, Node.js and PostgreSQL <br>
@@ -26,35 +26,43 @@ B.Tech Electronics & Communication student at **BIT Ranchi**, building full-stac
 
 | Area | Focus |
 |---|---|
-| **AI Agents** | Multi-agent workflows with LangGraph, CrewAI and Google ADK |
-| **AI Integration** | MCP servers, Agents SDK, Hugging Face deployment, Gradio apps |
-| **Full-Stack** | Next.js + TypeScript apps backed by PostgreSQL and MongoDB |
-| **API Engineering** | REST APIs, OAuth/JWT auth, rate limiting and bot protection |
+| **AI Agents** | Production-grade multi-agent workflows with LangGraph, CrewAI and Google ADK — built with guardrails, retries and observability |
+| **AI Integration** | MCP servers, Agents SDK, Hugging Face deployment and Gradio apps, hardened with scoped tool access and rate-limited LLM calls |
+| **Full-Stack** | Next.js + TypeScript apps on PostgreSQL and MongoDB, designed for scale from the schema up — indexed queries, validated and boundaries |
+| **API Engineering** | REST APIs secured end-to-end: OAuth/JWT auth enforced at middleware, rate limiting and bot protection before traffic ever reaches the database |
 
 ---
 
 ## 🧩 Featured Projects
 
-<div align="center">
+### [VibeFlow](https://github.com/rakshitpoonia/VibeFlow)
 
-<a href="https://github.com/rakshitpoonia/VibeFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitpoonia&repo=VibeFlow&theme=tokyonight&hide_border=true" alt="VibeFlow repository card"/>
-</a>
-<a href="https://github.com/rakshitpoonia/SubTrackify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitpoonia&repo=SubTrackify&theme=tokyonight&hide_border=true" alt="SubTrackify repository card"/>
-</a>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logoColor=white)
 
-<a href="https://github.com/rakshitpoonia/MoviKit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshitpoonia&repo=MoviKit&theme=tokyonight&hide_border=true" alt="MoviKit repository card"/>
-</a>
+Browser-based IDE built on WebContainers and Monaco Editor, running full Node.js in-browser with no server-side sandboxing. OpenRouter LLMs power AI code completion and debugging while keeping code on-device. Google and GitHub OAuth via NextAuth with sessions persisted to MongoDB through Prisma, plus 6 project templates, an xterm.js terminal and a file explorer.
 
-</div>
+### [SubTrackify](https://github.com/rakshitpoonia/SubTrackify)
 
-**VibeFlow** — Browser-based IDE using WebContainers and Monaco Editor for full in-browser Node.js execution, with OpenRouter LLMs powering AI code completion and debugging. Google/GitHub OAuth via NextAuth, 6 project templates, xterm.js terminal and file explorer.
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
 
-**SubTrackify** — Subscription tracker with 10+ JWT-secured REST endpoints, Arcjet rate limiting and bot detection, and an automated email reminder pipeline built on Upstash Workflows.
+Subscription tracker securing 10+ REST endpoints with JWT authentication enforced at the middleware layer. Arcjet handles rate limiting and bot detection before traffic reaches the database, and an Upstash Workflows pipeline sends automated renewal reminders 7 and 1 days ahead.
 
-**MoviKit** — Movie discovery platform with debounced TMDB search, an Appwrite-backed trending algorithm ranking titles by click events, and add-to-favorites via React Context and localStorage.
+### [MoviKit](https://github.com/rakshitpoonia/MoviKit)
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
+
+Movie discovery platform serving 100+ users, cutting redundant TMDB calls by 60% with debounced search. A trending algorithm in Appwrite aggregates click events per title to rank movies dynamically, and add-to-favorites is handled through React Context and localStorage.
 
 ---
 
@@ -109,15 +117,13 @@ B.Tech Electronics & Communication student at **BIT Ranchi**, building full-stac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitpoonia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="Rakshit's GitHub stats" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitpoonia&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=false" alt="Top languages used by Rakshit" height="175"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rakshitpoonia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rakshitpoonia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kim_chi1?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/kim_chi1/)
 
 </div>
 
@@ -160,6 +166,7 @@ B.Tech Electronics & Communication student at **BIT Ranchi**, building full-stac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshit-poonia-506715321)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitpoonia2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakshitpoonia)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kim_chi1/)
 
 </div>
 
@@ -167,7 +174,7 @@ B.Tech Electronics & Communication student at **BIT Ranchi**, building full-stac
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rakshitpoonia&color=58A6FF&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=rakshitpoonia&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/rakshitpoonia)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer banner" width="100%"/>
 
